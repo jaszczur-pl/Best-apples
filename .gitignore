@@ -1,0 +1,24 @@
+*.py[cod]
+
+# Environment setup
+*.env
+
+venv
+db.sqlite3
+
+# Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+bin
+var
+sdist
+develop-eggs
+.installed.cfg
+.idea
+lib
+lib64
+__pycache__
